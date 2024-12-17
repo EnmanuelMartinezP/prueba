@@ -7,6 +7,6 @@
 int main(){
 
 	printf("solo es una prueba en git :)");
-//hello 
+//hello git
 	return 0;
 }
